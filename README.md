@@ -5,4 +5,8 @@ Assume 1 int per line.
 Read in the input.txt file and sum up each row assuming ints.
 
 ## Usage
-```rspec spec```
+```
+bundle install
+rspec spec
+
+```
